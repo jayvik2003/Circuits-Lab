@@ -1,6 +1,10 @@
 # Circuits-Lab
 EE1200
 
+## Overview 
+
+All these experiments were conducted in collaboration with my lab partner, Mathew M Philip. You can find Mathew's GitHub profile here.
+
 ### Experiment 01: Output Response of RC Series Circuit
 
 Transient and steady-state analysis of an RC series circuit.
